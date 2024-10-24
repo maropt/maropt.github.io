@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maropt.github.io/gZP/sitemap.gZP
